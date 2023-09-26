@@ -1,6 +1,6 @@
 # press-gun-script
 
-## Describe:  
+## Description:  
 
 When you click the left button, it can automatically move your mouse down, and it can only run normally under the windows system.
 Support adjust the speed of move mouse down.
