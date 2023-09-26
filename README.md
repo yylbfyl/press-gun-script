@@ -7,7 +7,9 @@ Support adjust the speed of move mouse down.
 
 建议直接在右边的Releases页面下载PGS.exe程序运行。
 > [!NOTE]
+> 
 > It should run as Administrator mode
+> 
 > 需要运行在管理员模式下
 
 ![image](https://github.com/yylbfyl/press-gun-script/assets/11427330/860587fd-0d42-4060-b02d-f86766f770e4)
