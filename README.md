@@ -2,8 +2,9 @@
 
 ## Description:  
 
-When you click the left button, it can automatically move your mouse down, and it can only run normally under the windows system.
-Support adjust the speed of move mouse down.
+When you click the left button, it can automatically move your mouse down, and it can only run normally under the windows system.  
+Support adjust the speed of move mouse down.  
+Tested in CS GO and it works fine.
 
 建议直接在右边的Releases页面下载PGS.exe程序运行。
 > [!NOTE]
